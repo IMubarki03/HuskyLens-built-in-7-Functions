@@ -1,4 +1,4 @@
-# Huskylens built-in 7 Functions
+# HuskyLens built-in 7 Functions
 ## Introduction
 _HuskyLens_ is an easy-to-use AI machine vision sensor with **7 built-in functions**: face recognition, object tracking, object recognition, line tracking, color recognition, tag recognition and object classification.
 ## Requirements
